@@ -1,1 +1,3 @@
-[![views counter:](https://u8views.com/api/v1/github/profiles/142753318/views/day-week-month-total-count.svg)](https://u8views.com/github/Dhia-naouali)
+Penultimate-year Software Engineering student focused on applied machine learning, working on real-world ML problems through hands-on projects and open-source collaboration
+currently finalizing a couple of publications while actively looking to collaborate on more
+actively seeking internships, co-op roles and other meaningful collaborations
