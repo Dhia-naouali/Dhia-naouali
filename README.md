@@ -8,4 +8,4 @@ currently working on: [project](https://github.com/Dhia-naouali/cars-generator)
 </a>
 
 
-<img src="metrics.isocalendar.fancy.svg" width="100%" />
+<img src="metrics.isocalendar.fancy.svg" width="72%"/>
