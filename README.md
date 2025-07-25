@@ -4,8 +4,8 @@ actively seeking internships, co-op roles and other meaningful collaborations, c
 currently working on: [project](https://github.com/Dhia-naouali/cars-generator)
 
 <a href="https://u8views.com/github/Dhia-naouali">
-  <img src="https://u8views.com/api/v1/github/profiles/142753318/views/day-week-month-total-count.svg" alt="Dhia naouali profile views" width="480"/>
+  <img src="https://u8views.com/api/v1/github/profiles/142753318/views/day-week-month-total-count.svg" alt="Dhia naouali profile views" width="2"/>
 </a>
-<img src="metrics.isocalendar.fancy.svg" width="2%"/>
+<!-- <img src="metrics.isocalendar.fancy.svg" width="2%"/> -->
 
 <img src="https://komarev.com/ghpvc/?username=Dhia-naouali" width="2"/>
