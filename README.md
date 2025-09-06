@@ -1,5 +1,4 @@
-Penultimate-year Software Engineering student focused on applied machine learning, working on real-world ML problems through hands-on projects and open-source collaboration  
-actively seeking internships, co-op roles and other meaningful collaborations, currently finalizing a couple of publications while actively looking to collaborate on more    
+Penultimate-year Software Engineering Student, working on applied Machine Learning, actively seeking research / engineering internships, co-op opportunities and open to meaningful collaborations
 
 currently working on: [project](https://github.com/Dhia-naouali/dinov3-jax)
 
