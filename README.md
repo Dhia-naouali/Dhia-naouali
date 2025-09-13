@@ -5,7 +5,7 @@ currently learning jax, distributed compute & optimization while translating the
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a947a0bb-cc79-47cd-9460-ca8a05d5a8cb" width="880"><br>
-  <em> a compilation of what I ejoy working on / reading about</em>
+  <em> a compilation of what I ejoy working on / learning about</em>
 </p>
 
 
