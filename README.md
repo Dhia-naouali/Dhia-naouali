@@ -7,7 +7,7 @@ currently experiemnting with latent representations and SSL recipes on niche mod
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a947a0bb-cc79-47cd-9460-ca8a05d5a8cb" width="880"><br>
+  <img src="https://github.com/user-attachments/assets/bf81c268-b647-4ac1-8fe9-fdeb83f48f2b" width="880"><br>
   <em> a compilation of what I ejoy working on / learning about</em>
 </p>
 
