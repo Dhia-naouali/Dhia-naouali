@@ -7,5 +7,5 @@
   
    <img width="880" alt=" " src="https://github.com/user-attachments/assets/01b8247d-ab2a-4a65-8138-6f6271859320" />
   <br>
-  <em> a compilation of what I ejoy working on / learning about</em>
+  <em> a compilation of what I enjoy working on / learning about</em>
 </p>
